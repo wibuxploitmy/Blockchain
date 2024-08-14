@@ -1,1 +1,3 @@
-# Blockchain
+# Blockchain Project
+
+Solidity
