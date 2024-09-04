@@ -1,6 +1,6 @@
 # Simple ERC20
 
-Simple smart contract code using solidity for beginner projects 🗈
+Simple smart contract code using solidity for beginner projects 💡
 
 ### Function
 ```
