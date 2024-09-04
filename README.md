@@ -11,7 +11,7 @@ Follow us:
 
 ## Use for
 - [x] Example Solidity Code
-- [x] Project idea
+- [x] Project ideas
 - [x] References
 
 ## Copyright
